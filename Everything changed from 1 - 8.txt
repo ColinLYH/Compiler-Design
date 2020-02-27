@@ -1,0 +1,10 @@
+1.To Lower Case part{
+ParseTreePrinter Line 126 :"Original keyString.toString"
+PascalTokenTyoe Line 48: "this.text = this.toString().toLowerCase()"
+AssignmentStatementParser Line 55 "String targetName = token.getText().toLowerCase();"
+ExpressionParser Line 252 : "String name = token.getText().toLowerCase();"
+}
+
+2.
+
+
